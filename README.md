@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mitesh Bhagwant</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 👨‍💻 All of my projects are available at [https://miteshbhagwant.netlify.app/](https://miteshbhagwant.netlify.app/)
-
-- 📫 How to reach me **miteshbhagwant@gmail.com**
-
-- 📄 Know about my experiences [https://miteshbhagwant.netlify.app/assets/Mitesh-Bhagwant-Resume.pdf](https://miteshbhagwant.netlify.app/assets/Mitesh-Bhagwant-Resume.pdf)
+<h3 align="center">A passionate developer and heavy coffee drinker</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
