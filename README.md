@@ -12,28 +12,19 @@
 - 📧 [Email Me](mailto:miteshbhagwant@gmail.com)
 
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
 
-  <!-- Languages -->
-  <div style="display: flex; flex-direction: column; align-items: flex-start;">
-    <strong>Languages</strong>
-    <div style="display: flex; gap: 10px; margin-top: 5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-    </div>
-  </div>
+**Frontend**  
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,nuxt)](https://skillicons.dev)
 
-  <!-- Frontend -->
-  <div style="display: flex; flex-direction: column; align-items: flex-start;">
-    <strong>Frontend</strong>
-    <div style="display: flex; gap: 10px; margin-top: 5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" />
-    </div>
-  </div>
+**Backend**  
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs)](https://skillicons.dev)
+
+**Database**  
+[![Database](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+
+**DevOps**  
+[![DevOps](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+
 
 </div>
 
