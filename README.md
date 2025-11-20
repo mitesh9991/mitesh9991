@@ -11,19 +11,20 @@
 - 💼 [LinkedIn](www.linkedin.com/in/mitesh-bhagwant)
 - 📧 [Email Me](mailto:miteshbhagwant@gmail.com)
 
-
-
 **Frontend**  
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,nuxt)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,nuxt,tailwind&perline=4)](https://miteshbhagwant.netlify.app/)
 
 **Backend**  
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs)](https://miteshbhagwant.netlify.app/)
+
+**UI/Design**  
+[![UI/Design](https://skillicons.dev/icons?i=figma,shadcn)](https://miteshbhagwant.netlify.app/)
 
 **Database**  
-[![Database](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://miteshbhagwant.netlify.app/)
 
 **DevOps**  
-[![DevOps](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=docker)](https://miteshbhagwant.netlify.app/)
 
 
 </div>
